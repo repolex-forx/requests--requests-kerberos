@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/requests/requests-kerberos/commit/d4088c05ad7f3c1f4968590f3243404e50c36749",
       "git:hexsha": "d4088c05ad7f3c1f4968590f3243404e50c36749",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/requests/requests-kerberos/commit/a76e9feef8b806ab94d3470c87c9ced4e392167c",
